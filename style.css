@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h4{
+    text-align: center;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;  
+}
+.mybutton2{
+    margin-left: 47%;
+    margin-right: 50%;
+    text-align: center;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+p{
+    text-align: center;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;    
+}
+.mybutton{
+    margin-left: 47%;
+    margin-right: 50%;
+    text-align: left;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
